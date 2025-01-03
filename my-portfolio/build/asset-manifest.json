@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1285881.css",
+    "main.js": "/static/js/main.baa7b0b8.js",
+    "static/media/vim.png": "/static/media/vim.bb45145981c525243110.png",
+    "static/media/java.png": "/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/linux.svg": "/static/media/linux.cbfc89ac8f83c47421563b18ef15074f.svg",
+    "static/media/mysql.svg": "/static/media/mysql.acd761413821a53cff36b49e6fdef476.svg",
+    "static/media/python.svg": "/static/media/python.7b3ee890a18106f475ace66a00df05c6.svg",
+    "index.html": "/index.html",
+    "main.e1285881.css.map": "/static/css/main.e1285881.css.map",
+    "main.baa7b0b8.js.map": "/static/js/main.baa7b0b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1285881.css",
+    "static/js/main.baa7b0b8.js"
+  ]
+}
